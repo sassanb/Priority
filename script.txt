@@ -1,0 +1,9 @@
+insert A
+insert 130
+blobblob
+decreaseKey(12,1)
+increaseKey(12,1)
+delete(13)
+deleteMin
+
+deleteMin
